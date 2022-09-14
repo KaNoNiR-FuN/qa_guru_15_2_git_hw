@@ -5,6 +5,6 @@ public class FirstTest {
 
     @Test
     void firstTest() {
-        Assertions.assertTrue(2 > 1);
+        Assertions.assertTrue(5 > 2);
     }
 }
